@@ -12,6 +12,11 @@ step 7: After training you need to extract text from resume file of any formate<
 step 8: Then convert into JSON data<br>
 Step 9: Apply testing for This data<br>
 
+# Text_extraction.ipynb<br>
+
+In this code we can extract text from .pdf, .docx, .jpg, .html formate of resume<br>
+we use PyPDF2, bs4, pytesseract, Pillow, python-docx moduls<br>
+
 # Skill_extraction.ipynb<br>
 
 In this code our aim is extract skills from the data<br>
